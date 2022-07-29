@@ -412,7 +412,7 @@ if __name__ == '__main__':
         _btn_back = Button(aroot, text='Back', command=back, bg='red')
         _btn_back.grid(column=5, row=6)
         _label0 = Label(aroot, text="""
-    Version: 0.0.1-alpha.1
+    Version: 0.0.1-alpha.4
     Chances of you seeing this: 0.0000001% (Yes that is supposed to be humor)
     Was this a pain in the rear end to make? Yes. Was it fun sometimes? Also yes.
     This game is pretty much going to be about 60-90% 'fantasy'.
