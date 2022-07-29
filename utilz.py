@@ -1,7 +1,6 @@
 from tkinter import messagebox
-import threading
+import threading # may be used later
 
-from pyxel import icon
 
 
 items = {
