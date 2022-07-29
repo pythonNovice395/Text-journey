@@ -1,6 +1,6 @@
 # Text-journey
 REQUIREMENTS:
-Have python 3.10.4 or later installed (This is the earliest that I can guarantee that there wont be any errors regarding deprecated or miss modules)
+Have python 3.10.4 or later installed (This is the earliest that I can guarantee that there wont be any errors regarding deprecated or missing modules)
 
 
 COMPATIBILITY:
