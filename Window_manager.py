@@ -5,7 +5,7 @@ import sqlite3
 
 
 from utilz import error_msg
-import threading
+# import threading
 conn = sqlite3.connect('Text journey database.db')
 curs = conn.cursor()
 
@@ -412,15 +412,14 @@ if __name__ == '__main__':
         _btn_back = Button(aroot, text='Back', command=back, bg='red')
         _btn_back.grid(column=5, row=6)
         _label0 = Label(aroot, text="""
-    Version: 0.4
+    Version: 0.0.1-alpha.1
     Chances of you seeing this: 0.0000001% (Yes that is supposed to be humor)
     Was this a pain in the rear end to make? Yes. Was it fun sometimes? Also yes.
     This game is pretty much going to be about 60-90% 'fantasy'.
-    closeness to launchpad: 60-80%
-    closeness to being put onto github: 40%
 
+    Change log: (7/28-29/2022)
+    Added Text Journey to github
 
-    
     Change log: (7/27/2022)
     Fixed a critical bug that disrupted button display
 
@@ -454,11 +453,7 @@ if __name__ == '__main__':
         aroot.title('in-game progress')
         aroot.config(background=back_color)
         label0 = Label(aroot, text="""
-    Ah, hello. Progress stuff will be implemented later.
-    For now enjoy this text: LOOOOOOOOLLLLLLLZZZZZZEEEEEEERRRRRRR
-    Thank you for listening to my ted talk.
-    
-    This will be interesting to try and implement.
+        Empty
         """)
 
         def back():
