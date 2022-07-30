@@ -14,3 +14,4 @@ Text Journey
 UPDATING:
 You shouldn't see any database changes very often, but it could happen. When/if it happens, a template table/database will be provided to change the format of either the character tables or the world databases. I plan to make a database editor so that you don't have to get a database editor from somewhere else, but I don't know when I will get to it.
 
+For any more information, see the in-game help menu or better yet the Wiki.
