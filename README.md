@@ -8,7 +8,7 @@ COMPATIBILITY:
     This program will work with python 3.10.4, and maybe all of 3.10. I plan on keeping Text journey updated with the newest stable python release.
 OTHER:
 Please don't alter any core (config, saves, important character data) tables in any of the databases, I don't want anything to break on your end.
-Text Journey
+How to start Text Journey: To start Text Journey, run "Window_manager"
 
 
 UPDATING:
